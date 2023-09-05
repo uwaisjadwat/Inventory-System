@@ -1,0 +1,7 @@
+C:\Users\uwais\source\repos\InvestorySystem\InvestorySystem\bin\Debug\InvestorySystem.exe.config
+C:\Users\uwais\source\repos\InvestorySystem\InvestorySystem\bin\Debug\InvestorySystem.exe
+C:\Users\uwais\source\repos\InvestorySystem\InvestorySystem\bin\Debug\InvestorySystem.pdb
+C:\Users\uwais\source\repos\InvestorySystem\InvestorySystem\obj\Debug\InvestorySystem.csproj.AssemblyReference.cache
+C:\Users\uwais\source\repos\InvestorySystem\InvestorySystem\obj\Debug\InvestorySystem.csproj.CoreCompileInputs.cache
+C:\Users\uwais\source\repos\InvestorySystem\InvestorySystem\obj\Debug\InvestorySystem.exe
+C:\Users\uwais\source\repos\InvestorySystem\InvestorySystem\obj\Debug\InvestorySystem.pdb
